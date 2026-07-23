@@ -1,1 +1,16 @@
+# env / secrets — NIKDY do gitu
+.env
+.env.*
+!.env.example
+
+# python (watch skill scripts)
+__pycache__/
+*.py[cod]
+.venv/
+
+# node
+node_modules/
+
+# misc
 .DS_Store
+*.log
